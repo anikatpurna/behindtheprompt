@@ -1,0 +1,6 @@
+customer,monthly_revenue,monthly_operating_cost,monthly_units,monthly_labor_hours,quotes_per_month,manual_minutes_per_quote,app_minutes_per_quote,analyst_hourly_cost
+Atlas Retail,85000,63750,60000,2400,12,45,8,35
+Summit Foods,62000,52700,45000,2100,9,45,8,35
+Nova Commerce,110000,79200,85000,2900,15,45,8,35
+BluePeak Distribution,48000,43200,35000,1800,7,45,8,35
+Horizon Logistics,95000,76000,70000,2600,11,45,8,35
